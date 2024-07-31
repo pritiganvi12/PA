@@ -9,7 +9,7 @@ public class LocatingLogicalOrUsingXpath {
 		
 		driver.manage().window().maximize();
 		driver.get("https://demowebshop.tricentis.com/register");
-		driver.findElement(By.xpath("))
+		driver.findElement(By.xpath("//input[@id='FirstName' or @name='FirstName']")).click();
 	}
 
 }
