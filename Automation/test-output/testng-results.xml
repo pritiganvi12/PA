@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-17T20:38:38 IST" name="Suite" finished-at="2024-07-17T20:38:56 IST" duration-ms="18133">
+    <groups>
+    </groups>
+    <test started-at="2024-07-17T20:38:38 IST" name="Test1" finished-at="2024-07-17T20:38:49 IST" duration-ms="10845">
+      <class name="BatchExecution.TestNgXmlFile3">
+        <test-method signature="saipallavi()[pri:0, instance:BatchExecution.TestNgXmlFile3@791f145a]" started-at="2024-07-17T20:38:47 IST" name="saipallavi" finished-at="2024-07-17T20:38:49 IST" duration-ms="2281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saipallavi -->
+      </class> <!-- BatchExecution.TestNgXmlFile3 -->
+      <class name="BatchExecution.TestNgXmlFile2">
+        <test-method signature="shahidkapoor()[pri:0, instance:BatchExecution.TestNgXmlFile2@a38c7fe]" started-at="2024-07-17T20:38:38 IST" name="shahidkapoor" finished-at="2024-07-17T20:38:44 IST" duration-ms="5773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shahidkapoor -->
+      </class> <!-- BatchExecution.TestNgXmlFile2 -->
+      <class name="BatchExecution.TestNgXmlFile1">
+        <test-method signature="amrutarao()[pri:0, instance:BatchExecution.TestNgXmlFile1@1e0b4072]" started-at="2024-07-17T20:38:44 IST" name="amrutarao" finished-at="2024-07-17T20:38:47 IST" duration-ms="2754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amrutarao -->
+      </class> <!-- BatchExecution.TestNgXmlFile1 -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-07-17T20:38:49 IST" name="Test2" finished-at="2024-07-17T20:38:56 IST" duration-ms="7243">
+      <class name="BatchExecution.Flipkart">
+        <test-method signature="flipkart()[pri:0, instance:BatchExecution.Flipkart@5afa3c9]" started-at="2024-07-17T20:38:51 IST" name="flipkart" finished-at="2024-07-17T20:38:53 IST" duration-ms="2058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkart -->
+      </class> <!-- BatchExecution.Flipkart -->
+      <class name="BatchExecution.Meesho">
+        <test-method signature="meesho()[pri:0, instance:BatchExecution.Meesho@72035809]" started-at="2024-07-17T20:38:53 IST" name="meesho" finished-at="2024-07-17T20:38:56 IST" duration-ms="3208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meesho -->
+      </class> <!-- BatchExecution.Meesho -->
+      <class name="BatchExecution.Amazon">
+        <test-method signature="amazon()[pri:0, instance:BatchExecution.Amazon@72cc7e6f]" started-at="2024-07-17T20:38:49 IST" name="amazon" finished-at="2024-07-17T20:38:51 IST" duration-ms="1969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon -->
+      </class> <!-- BatchExecution.Amazon -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
